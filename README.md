@@ -1,6 +1,10 @@
 # Arch Linux Install Script
 
-Automates Arch install with LUKS encryption, LVM, Systemd-boot, and user setup.
+Automates Arch install with LUKS encryption , hardened kernel , LVM, Systemd-boot, and user setup.
+<details>
+  <summary>Screenshot</summary>
+  <a href="https://github.com/A510DZ/Archlinux/"><img src="https://raw.githubusercontent.com/A510DZ/Archlinux/refs/heads/main/screenshot.jpg" title="Logo" /></a>
+</details>
 
 ## Features
 - **Encryption & LVM**: Sets up secure root with LUKS and LVM.
